@@ -1,5 +1,5 @@
 //7.a
-/*
+
 for(int input = 20; input >= 0 ; input--)
 {
   
@@ -17,7 +17,7 @@ for(int input = 20; input >= 0 ; input--)
   }
    
 }
-*/
+
 //7.b
 int input = 60;
 int startValue = input;
